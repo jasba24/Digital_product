@@ -44,4 +44,7 @@
   .brand_image {
     cursor: pointer;
   }
+  .img_content img {
+    width: 150px;
+  }
 }
